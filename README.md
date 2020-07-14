@@ -1,7 +1,6 @@
 # Custom Toggle Button
 This project was developed in order to study the CSS language.
 
----
 
 ## Running example
 
@@ -10,18 +9,17 @@ This project was developed in order to study the CSS language.
   <img src="./example.gif" alt="Project Gif" />
 </p>
 
----
 
 ## See more
 You can see this and more at <a href="https://codepen.io/adaltojunior" target="_blank">codepen.io/adaltojunior</a>
 
----
+
 
 ## Contributors
 
 - Adalto Mendes da Rocha Junior <mendesrochajunior@gmail.com>
 
----
+
 
 ## License
 
