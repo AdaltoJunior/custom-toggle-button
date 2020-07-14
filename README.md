@@ -1,2 +1,2 @@
-# custom-toggle-button
-A CSS Study Project
+# Custom Toggle Button
+This project was developed in order to study the CSS language.
