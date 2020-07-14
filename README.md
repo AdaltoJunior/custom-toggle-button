@@ -4,7 +4,7 @@ This project was developed in order to study the CSS language.
 ## Running example
 
 <p align="center">
-  <a href="https://codepen.io/adaltojunior/pen/jOWpXRm" target="_blank">See at codepen.io</a>
+  <a href="https://codepen.io/adaltojunior/pen/jOWpXRm">See at codepen.io</a>
 </p>
 
 <p align="center">
@@ -12,7 +12,7 @@ This project was developed in order to study the CSS language.
 </p>
 
 ## See more
-You can see this and more at <a href="https://codepen.io/adaltojunior" target="_blank">codepen.io/adaltojunior</a>
+You can see this and more at <a href="https://codepen.io/adaltojunior">codepen.io/adaltojunior</a>
 
 ## Contributors
 
